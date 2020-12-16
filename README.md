@@ -1,2 +1,4 @@
 # GITCLI-TRANING
 GITHUB CLI TRAINING
+
+Yes That Was Easy.
