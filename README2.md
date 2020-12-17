@@ -7,7 +7,7 @@ So that was Easy to do.
 
 
 Hahahaha.nice yaar.
-5. Merge conflict example.
+5. Merge conflict example.Yes yes
 
 
 Mac is a tough nut to crack.
