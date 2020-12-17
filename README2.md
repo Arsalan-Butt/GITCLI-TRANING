@@ -10,6 +10,5 @@ Hahahaha.nice yaar.
 5. Merge conflict example.
 
 
-Mac is a tough nut to crack.
-
+Mac is a tough nut to crack. Hahaha.
 
